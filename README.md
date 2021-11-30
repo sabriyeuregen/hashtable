@@ -1,7 +1,7 @@
 
 # Hash Table
 
-Hash Table, key value prensibine dayanın bir array kümesidir. Key olarak çağırdığınız elemanın değerini (value) yansıtır.
+Hash Table, key value prensibine dayanan bir array kümesidir. Key olarak çağırdığınız elemanın değerini (value) yansıtır.Konu anlatım videosundaki C dili ile yapılan çözümü Javascript ile yapmaya çalıştım.
 
 
 ## Kaynak
