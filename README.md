@@ -13,4 +13,4 @@ Hash Table için kullanılan dizinin boyutu verilen sonuçların sayısı kadar 
 ## Kaynak
  Patika.dev sitesinden ve Bilgisayar Kavramları youtube kanalından faydalanarak kodlamayı yaptım.
  [Patika.dev hashtable konu anlatımı için tıklayınız.](https://app.patika.dev/moduller/veri-yapilari-ve-algoritmalar/hash-function)
- [Youtune konu anlatım videosu için tıklayın](https://www.youtube.com/watch?v=_TCkO3DnVs4) 
+ [Youtube konu anlatım videosu için tıklayın](https://www.youtube.com/watch?v=_TCkO3DnVs4) 
